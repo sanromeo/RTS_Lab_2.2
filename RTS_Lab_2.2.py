@@ -54,3 +54,5 @@ if __name__ == "__main__":
     plot_FFT.plot(range(N), fft, "r")
     plot_FFT.title.set_text("FFT")
     plt.show()
+#Завдання: Порівняти час DFT i FFT
+#Висновок: FFT швидше за DFT. Cкрін часу додав у репозиторій.
